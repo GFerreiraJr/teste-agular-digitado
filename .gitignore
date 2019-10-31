@@ -1,0 +1,36 @@
+# compiled output
+/dist
+/tmp
+/out-tsc
+
+# dependencies 
+/node_modules
+
+# IDEs and editors 
+/.ideia
+.project
+.classpath
+.c9
+*.launch
+.settings/
+$.sublime-worksplace
+
+# IDE - VSCode
+.vscode/*
+!.vscode/tasks/json
+!.vscode/launch.json
+!.vscode/ewxtensions.json
+
+# misc
+/.sass-cache
+/connect.lock
+/coverage
+/libpeerconection.log
+npm-debug.log
+yarn-error.log
+testm.log
+/typings
+
+# System files
+.DS_Store
+Thumbs.db
